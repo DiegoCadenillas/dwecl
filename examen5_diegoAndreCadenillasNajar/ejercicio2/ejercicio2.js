@@ -198,13 +198,13 @@ class Hotel {
             case 2:
                 precioFinal = this.#precioHabitacion * 1.5;
                 break;
-            case 1:
+            case 3:
                 precioFinal = this.#precioHabitacion * 1.7;
                 break;
-            case 1:
+            case 4:
                 precioFinal = this.#precioHabitacion * 1.10;
                 break;
-            case 1:
+            case 5:
                 precioFinal = this.#precioHabitacion * 1.15;
                 break;
         }
